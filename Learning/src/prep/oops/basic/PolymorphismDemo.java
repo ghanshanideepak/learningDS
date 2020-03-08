@@ -29,7 +29,7 @@ public class PolymorphismDemo {
 	}
 	
 
-	public static void ma in(String[] args) {
+	public static void main(String[] args) {
 		
 		PolymorphismDemo demo = new PolymorphismDemo();
 		System.out.println(demo.add(3,4));

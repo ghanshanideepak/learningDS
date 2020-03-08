@@ -11,7 +11,7 @@ public class Main {
 		int x=6;
 		int y=7;
 		
- this.new B().print();
+// this.new B().print();
 	}
 	
 	class B
